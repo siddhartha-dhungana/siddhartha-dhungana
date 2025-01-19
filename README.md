@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siddhartha-dhungana
 - 👀 I’m interested in Material Physics.
-- 🌱 I’m currently learning MAchine Learning and Neural Network.
+- 🌱 I’m currently learning Machine Learning and Neural Network.
 - 💞️ I’m looking to collaborate on Material Science Research with DFT.
 - 📫You can reach me out through Email: iamsiddhartha1999@gmail.com
 - 😄 Pronouns: he/him
